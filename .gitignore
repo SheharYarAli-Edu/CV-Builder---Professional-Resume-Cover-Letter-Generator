@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.venv/
+
+# React / Node
+node_modules/
+dist/
+build/
+.eslintcache
+
+# Logs
+*.log
+npm-debug.log*

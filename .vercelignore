@@ -1,0 +1,47 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Flask
+app.py
+deploy.py
+start.py
+setup_api_key.py
+test_ats.py
+
+# Environment
+.env
+.env.local
+.env.backup
+env.example
+
+# Node
+node_modules/
+resume-builder/node_modules/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+README.md
